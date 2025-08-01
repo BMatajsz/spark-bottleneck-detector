@@ -1,0 +1,5 @@
+.DS_Store
+Pyroscope/*
+!Pyroscope/config.yaml
+target
+dependency-reduced-pom.xml
